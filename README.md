@@ -13,3 +13,6 @@ This part will go through the Jupyter notebooks [01_introduction_to_graphs.ipynb
 The material for this part is available [here](https://github.com/mizvol/gephi-tutorials). The software [Gephi](https://gephi.org/) is open source.
 
 ## Part 3: Graph Neural Networks
+
+- Example 1: [Semi-supervised node classification](https://colab.research.google.com/drive/1KEOIUZhz4qwt68ICZcWJBSnUc_qEfkjm?usp=sharing)
+- Example 2: [Graph classification](https://colab.research.google.com/drive/1UpYbq2QQeldCDibl-BmEaUQSFHkSlrmS?usp=sharing)
