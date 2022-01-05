@@ -21,3 +21,7 @@ The material for this part is available [here](https://github.com/mizvol/gephi-t
 - Example 2: [Graph classification](https://colab.research.google.com/drive/1UpYbq2QQeldCDibl-BmEaUQSFHkSlrmS?usp=sharing)
 
 ![Protein Graph Picture](https://github.com/uitml/GraphMLTutorialNLDL22/blob/main/Proteinsgraph.png)
+
+## Data
+
+The protein dataset in the data folder comes from [TUdataset](https://chrsmrrs.github.io/datasets/).
